@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Panwar</h1>
 <h3 align="center">A passionate frontend developer and learning Data Structures and Algorithms.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpanwar0705&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpanwar0705" /> </p>
 
 - 🔭 I’m currently exloring **backend Tech & ML**
 
