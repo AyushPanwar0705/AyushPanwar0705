@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Panwar</h1>
 <h3 align="center">A passionate frontend developer and learning Data Structures and Algorithms.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpanwar0705&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpanwar0705" /> </p>
+
 - 🔭 I’m currently exloring **backend Tech & ML**
 
 - 📫 How to reach me **ayushpanwar0705@gmail.com**
@@ -8,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayushpanwar0705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushpanwar0705" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https:ayush-panwar-697639251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-panwar-697639251/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
